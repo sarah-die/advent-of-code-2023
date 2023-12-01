@@ -2,9 +2,9 @@
   "name": "advent-of-code-2023",
   "version": "1.0.0",
   "description": "Advent of Code 2023",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
-    "start": "tsc && node dist/index.ts",
+    "start": "tsc && node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sarah Diethert",
